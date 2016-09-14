@@ -29,12 +29,14 @@ For more details, see
   
   
 - Lectures
+    * [NLP by CK Lee (Kangwon National University)](http://cs.kangwon.ac.kr/~leeck/NLP/)
     * [Machine Learning in NLP by ](https://ufal.mff.cuni.cz/mlnlpr13)
     * [Natural Language Toolkit Book](http://www.nltk.org/book/)
 
 - R packages
     * [CRAN NLP taskview](https://cran.r-project.org/web/views/NaturalLanguageProcessing.html)
-
+    * [hunspell](https://cloud.r-project.org/web/packages/hunspell/vignettes/intro.html)
+    
 - Python packages
     * [NLTK](http://www.nltk.org/)
 
