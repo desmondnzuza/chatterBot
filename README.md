@@ -1,14 +1,51 @@
-# chatterBot
-ChatBot based on R
+# ChatBot project
 
-##### Interface
+Build your own chatter bot in R
+
+-----
+
+### Notebooks
+
+
+-----    
+
+### Interface
+
 Connetting to users in the screen is one of the most important procedure to build AI chatter bot. 
 There are three candidates: Telegram, MS Bot Framework, 
 
 For more details, see 
 
-https://docs.botframework.com/en-us/csharp/builder/sdkreference/gettingstarted.html
+- [MS Bot Framework](https://docs.botframework.com/en-us/csharp/builder/sdkreference/gettingstarted.html)
+- [Telegram Bot API](https://core.telegram.org/bots/api)
 
-##### References
-https://ufal.mff.cuni.cz/mlnlpr13
 
+-----
+
+### References     
+
+- Apache projects
+    * [openNLP](http://opennlp.apache.org/)
+  
+  
+- Lectures
+    * [Machine Learning in NLP by ](https://ufal.mff.cuni.cz/mlnlpr13)
+    * [Natural Language Toolkit Book](http://www.nltk.org/book/)
+
+- R packages
+    * [CRAN NLP taskview](https://cran.r-project.org/web/views/NaturalLanguageProcessing.html)
+
+- Python packages
+    * [NLTK](http://www.nltk.org/)
+
+- Peer-reviewed articles
+    * [Renuka and P (2016). Latent Semantic Indexing Based SBM Model for Email Spam Classification, Journal of Scientific & Industral Research](http://14.139.47.15/bitstream/123456789/28997/1/JSIR%2073%287%29%20437-442.pdf)
+
+- Podcasts
+    * [Talking to Machines from radiolab.org](http://www.radiolab.org/story/137407-talking-to-machines/)
+
+- URL
+    * [What is the best way to learn and write a AI Chat bot? in Quora](https://www.quora.com/What-is-the-best-way-to-learn-and-write-a-AI-Chat-bot)
+    * [NLP in R](https://rpubs.com/lmullen/nlp-chapter)
+    * [QnA1](http://www.gamasutra.com/view/feature/6305/beyond_fa%C3%A7ade_pattern_matching_.php)
+    * [Any tutorials for developin chatbot? in stackoverflow](http://stackoverflow.com/questions/9706769/any-tutorials-for-developing-chatbots/9707402#9707402)
