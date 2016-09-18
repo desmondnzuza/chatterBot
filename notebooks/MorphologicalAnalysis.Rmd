@@ -1,0 +1,27 @@
+---
+title: "형태소 분석(Morphological Analysis) in R"
+author: "Soo-Heang Eo, PhD"
+output:
+  html_notebook: default
+  html_document: default
+---
+
+--------
+
+#### Definition of Morphology
+* 의미가 있는 최소의 단위  
+* 문법적, 관계적인 뜻을 나타내는 단어 또는 단어의 부분
+
+
+#### Definition of Morphological Analysis
+* 단어(또는 어절)을 구성하는 각 형태소 분리
+* 분리된 형태소의 기본형 및 품사 정보 추출
+
+
+#### Procedure of Morphological Analysis  
+1. 분석후보 생성    
+    * 문법 규칙에 맞는 후보 생성  
+    * 형태소 분리와 기본형 추정    
+2. 분석 후보로부터 옳은 결과 선택   
+    * 형태소끼리의 결합제약조건 만족  
+    * 사전에서 기본형 확인  
