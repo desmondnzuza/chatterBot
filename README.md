@@ -1,10 +1,14 @@
 # ChatBot project
 
-Build your own chatter bot in R
+#### Create a machine learning based chatbot in R  
+
+Soo-Heang Eo, PhD
 
 -----
 
 ### Notebooks
+
+
 
 
 -----    
@@ -24,15 +28,21 @@ For more details, see
 
 ### References     
 
-- Apache projects
-    * [openNLP](http://opennlp.apache.org/)
-  
-  
 - Lectures
     * [NLP by CK Lee (Kangwon National University)](http://cs.kangwon.ac.kr/~leeck/NLP/)
     * [Machine Learning in NLP by ](https://ufal.mff.cuni.cz/mlnlpr13)
     * [Natural Language Toolkit Book](http://www.nltk.org/book/)
+    * [NLP using Python (KAIST NLP&CL Lab)](http://nlpcl.kaist.ac.kr/~cs372_2015/)
+    * [Computational Linquistic (KAIST NLP&CL Lab)](http://nlpcl.kaist.ac.kr/~cs579_2014/)
 
+- WordNet and Corpus
+    * [WordNet - a lexical database for English](https://wordnet.princeton.edu/)
+    * [Brown Corpus for English](http://www.nltk.org/nltk_data/)
+    * [Korean Sentiment Analysis Corpus](http://word.snu.ac.kr/kosac/)
+    
+- Apache projects
+    * [openNLP](http://opennlp.apache.org/)
+  
 - R packages
     * [CRAN NLP taskview](https://cran.r-project.org/web/views/NaturalLanguageProcessing.html)
     * [hunspell](https://cloud.r-project.org/web/packages/hunspell/vignettes/intro.html)
