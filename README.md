@@ -16,7 +16,7 @@ Soo-Heang Eo, PhD
 ### Interface
 
 Connetting to users in the screen is one of the most important procedure to build AI chatter bot. 
-There are three candidates: Telegram, MS Bot Framework, 
+There are two candidates: Telegram and MS Bot Framework. 
 
 For more details, see 
 
